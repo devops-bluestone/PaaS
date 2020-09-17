@@ -1,0 +1,8 @@
+# This is the host File#1
+devopsbtonesMBP:~ root# cat /etc/hosts
+192.168.0.128 ansible ansible.bluestone.com
+192.168.0.89 kubemaster kubemaster.bluestone.com
+192.168.0.242 kubeworker1 kubeworker1.bluestone.com
+#192.168.0.187 kubeworker2 kubeworker2.bluestone.com
+192.168.0.106 jenkins jenkins.bluestone.com
+#192.168.0.25 docker docker.bluestone.com
