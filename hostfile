@@ -6,4 +6,5 @@ devopsbtonesMBP:~ root# cat /etc/hosts
 #192.168.0.187 kubeworker2 kubeworker2.bluestone.com
 192.168.0.106 jenkins jenkins.bluestone.com
 #192.168.0.25 docker docker.bluestone.com
-#192.168.0.27 docker docker.bluestone.com
+#192.168.0.26 docker docker.bluestone.com # added by user A1
+#192.168.0.26 docker docker.bluestone.com ## Added by user B1
